@@ -1,0 +1,68 @@
+.container-fluid{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #f1e4e4;
+    font-family: cursive;
+}
+
+.navbar-brand{
+    font-size: 40px;
+    padding-left: 20px;
+    font-family: 'Caveat', cursive;
+}
+.glyphicon-menu-hamburger{
+    background-color: rgb(241, 228, 228);
+    border-radius: 2%;
+    border-color: rgb(241, 228, 228);
+    border-style: solid;
+}
+.menu-item{
+    font-size: 20px;
+    padding: 20px;
+    border: solid rgb(241, 228, 228) 0.5px;
+}
+.main-title{
+    padding-top: 20px;
+    font-size: 55px;
+    font-weight: bold;
+    font-family: 'Caveat', cursive;
+}
+
+section{
+	background-color: #e8c2c2;
+	border: 1px solid black;
+	margin: 20px;
+    box-shadow: 2px 3px rgba(63, 63, 63, 0.8);
+    overflow: hidden;
+}
+
+h3{
+	float: right;
+	position: relative;
+	border: 1px solid black;
+	margin: 0px;
+	padding: 5px 20px;
+    color: rgba(18, 23, 102, 0.897);
+    overflow: hidden;
+    font-family: cursive;
+}
+#chicken{
+	background-color: #f5d796;
+}
+#beef{
+	background-color:#f5d796;
+}
+#sushi{
+	background-color: #f5d796;
+}
+p{
+    width: 100%;
+    height: auto;
+    padding: 15px 25px 20px;
+    margin: 40px 10px;
+}
+.row {
+      margin: 40px;
+}
